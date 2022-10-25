@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Metadata;
 
-namespace AuvoProject_Core
+namespace AuvoProject_Core.Context
 {
     public partial class ClimaTempoSimplesContext : DbContext
     {

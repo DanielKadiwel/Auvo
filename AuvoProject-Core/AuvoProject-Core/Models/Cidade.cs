@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace AuvoProject_Core
+namespace AuvoProject_Core.Models
 {
     public partial class Cidade
     {
